@@ -14,9 +14,16 @@ To get this application running, you will need to have an Excel file with at lea
 
 1. Fork and clone this repo.
 
-2. Once you have your Excel file set up, you will need to have it set to a specific path.
+2. In terminal run
 
-3. 
+```
+$ python Canes3.py
+$ canes3()
+```
+
+3. The application will ask for a file name. Use the full path name to your Excel file.
+
+4. The application will also ask for an output file name. Again, use the full path name to the output file.
 
 
 ## Built With
